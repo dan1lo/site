@@ -1,8 +1,8 @@
 <?php
 
-include 'topo.php'
-include 'descricao.php'
-include 'rodape.php'
+include 'topo.php';
+include 'texto_index.php';
+include 'rodape.php';
 
 
 

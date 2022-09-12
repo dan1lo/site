@@ -48,6 +48,8 @@
                     <li class="nav-item"><a class="nav-link link text-black display-4" href="http://monteiro.inf.br/site/index.php/blog">Blog</a></li>
                     <li class="nav-item"><a class="nav-link link text-black display-4" href="http://monteiro.inf.br/home/publications.html">Publications</a></li>
                     <li class="nav-item"><a class="nav-link link text-black display-4" href="http://monteiro.inf.br/site/index.php/talks-palestras">Talks</a></li>
+                    <li class="nav-item"><a class="nav-link link text-black display-4" href="http://monteiro.inf.br/site/index.php/talks-palestras">Students</a></li>
+                    
                 </ul>
 
 
